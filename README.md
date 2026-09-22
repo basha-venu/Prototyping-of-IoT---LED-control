@@ -173,7 +173,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  ##
 ### LED ON ###
-<img width="741" height="562" alt="WhatsApp Image 2026-09-22 at 11 14 35 AM" src="https://github.com/user-attachments/assets/07d2f461-440d-4bb7-ab64-5cbca3af99b9" />
+<img width="562" height="741" alt="WhatsApp Image 2026-09-22 at 11 13 27 AM" src="https://github.com/user-attachments/assets/6a29691a-66a0-4f46-a477-3366fff2c4c0" />
 
 ### LED OFF ###
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/68d7d5cc-5e1d-4379-8b39-66f8886751e7" />
